@@ -1,1 +1,3 @@
-# module-knn-and-evaluation
+# KMeans and Evaluation
+
+Covers K-Means and Cluster Evaluation
